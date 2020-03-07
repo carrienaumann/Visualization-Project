@@ -63,7 +63,7 @@ $.getJSON("data/rvacrash20182019.geojson",function(data2){
   { addressPoints.push([data2.features[i].geometry.coordinates[1],data2.features[i].geometry.coordinates[0],Math.random()])
   }
   
-  L.heatLayer(addressPoints, {radius: 25}).addTo(layers.Heatmap);
+  L.heatLayer(addressPoints, {radius: 30}).addTo(layers.Heatmap);
   
 //   var legend = L.control({position: 'bottomleft'});
 
