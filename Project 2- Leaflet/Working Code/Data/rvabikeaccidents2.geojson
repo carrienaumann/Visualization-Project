@@ -1,0 +1,6401 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.49403391,37.58040046 ]
+    },
+    "properties": {
+    "OBJECTID":195,
+    "Date":"6/21/2011",
+    "Time":1720,
+    "Street1":"1807 STAPLES MILL ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.39072128,37.51740117 ]
+    },
+    "properties": {
+    "OBJECTID":227,
+    "Date":"10/17/2011",
+    "Time":1950,
+    "Street1":"NATIONAL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44903811,37.54988071 ]
+    },
+    "properties": {
+    "OBJECTID":241,
+    "Date":"1/6/2012",
+    "Time":1830,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41812791,37.53534525 ]
+    },
+    "properties": {
+    "OBJECTID":296,
+    "Date":"9/5/2012",
+    "Time":1730,
+    "Street1":"23RD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44502889,37.48627836 ]
+    },
+    "properties": {
+    "OBJECTID":492,
+    "Date":"6/14/2015",
+    "Time":1849,
+    "Street1":"JEFFERSON DAVIS HWY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47953185,37.57004027 ]
+    },
+    "properties": {
+    "OBJECTID":252,
+    "Date":"3/11/2012",
+    "Time":1755,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44096974,37.52292278 ]
+    },
+    "properties": {
+    "OBJECTID":133,
+    "Date":"9/15/2010",
+    "Time":730,
+    "Street1":"HULL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41555797,37.51911694 ]
+    },
+    "properties": {
+    "OBJECTID":341,
+    "Date":"3/7/2013",
+    "Time":1815,
+    "Street1":"OLD MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46585747,37.54921288 ]
+    },
+    "properties": {
+    "OBJECTID":483,
+    "Date":"1/27/2015",
+    "Time":1825,
+    "Street1":"MEADOW ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46925864,37.53740211 ]
+    },
+    "properties": {
+    "OBJECTID":448,
+    "Date":"7/28/2014",
+    "Time":1813,
+    "Street1":"CARTER ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8987638,21.84881981 ]
+    },
+    "properties": {
+    "OBJECTID":50,
+    "Date":"7/28/2009",
+    "Time":2201,
+    "Street1":"NICKEL BRIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.49383284,37.48899082 ]
+    },
+    "properties": {
+    "OBJECTID":229,
+    "Date":"10/21/2011",
+    "Time":2054,
+    "Street1":"HULL STREET ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45777168,37.55243794 ]
+    },
+    "properties": {
+    "OBJECTID":469,
+    "Date":"10/22/2014",
+    "Time":1156,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44414557,37.4775061 ]
+    },
+    "properties": {
+    "OBJECTID":287,
+    "Date":"8/7/2012",
+    "Time":1549,
+    "Street1":"JEFFERSON DAVIS HWY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41591908,37.54692658 ]
+    },
+    "properties": {
+    "OBJECTID":85,
+    "Date":"11/21/2009",
+    "Time":936,
+    "Street1":"1500 MECHANICSVILLE TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42872572,37.53178306 ]
+    },
+    "properties": {
+    "OBJECTID":458,
+    "Date":"9/2/2014",
+    "Time":2000,
+    "Street1":"DOCK ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44341078,37.54111311 ]
+    },
+    "properties": {
+    "OBJECTID":422,
+    "Date":"3/28/2014",
+    "Time":1427,
+    "Street1":"2ND ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51069373,37.49536205 ]
+    },
+    "properties": {
+    "OBJECTID":112,
+    "Date":"6/10/2010",
+    "Time":1752,
+    "Street1":"WINTER ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43887122,37.53698293 ]
+    },
+    "properties": {
+    "OBJECTID":156,
+    "Date":"11/18/2010",
+    "Time":1313,
+    "Street1":"CANAL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.49809976,37.5262759 ]
+    },
+    "properties": {
+    "OBJECTID":276,
+    "Date":"6/25/2012",
+    "Time":2025,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48884539,37.48154358 ]
+    },
+    "properties": {
+    "OBJECTID":113,
+    "Date":"6/12/2010",
+    "Time":1639,
+    "Street1":"TROY ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42929963,37.55154155 ]
+    },
+    "properties": {
+    "OBJECTID":38,
+    "Date":"6/10/2009",
+    "Time":2100,
+    "Street1":"5TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43090349,37.53240148 ]
+    },
+    "properties": {
+    "OBJECTID":44,
+    "Date":"7/21/2009",
+    "Time":1638,
+    "Street1":"DOCK ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41414392,37.54253505 ]
+    },
+    "properties": {
+    "OBJECTID":28,
+    "Date":"5/19/2009",
+    "Time":1716,
+    "Street1":"FAIRMOUNT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44914073,37.54180125 ]
+    },
+    "properties": {
+    "OBJECTID":60,
+    "Date":"8/23/2009",
+    "Time":1539,
+    "Street1":"IDLEWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44903811,37.54988071 ]
+    },
+    "properties": {
+    "OBJECTID":345,
+    "Date":"4/13/2013",
+    "Time":1634,
+    "Street1":"LAUREL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45905689,37.55080679 ]
+    },
+    "properties": {
+    "OBJECTID":170,
+    "Date":"3/18/2011",
+    "Time":1207,
+    "Street1":"LOMBARDY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40572574,37.55047764 ]
+    },
+    "properties": {
+    "OBJECTID":267,
+    "Date":"5/26/2012",
+    "Time":1804,
+    "Street1":"23RD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44065399,37.5509624 ]
+    },
+    "properties": {
+    "OBJECTID":247,
+    "Date":"2/15/2012",
+    "Time":914,
+    "Street1":"CHAMBERLAYNE PKWY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44730376,37.58454869 ]
+    },
+    "properties": {
+    "OBJECTID":410,
+    "Date":"12/9/2013",
+    "Time":1612,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47743313,37.51786521 ]
+    },
+    "properties": {
+    "OBJECTID":272,
+    "Date":"6/9/2012",
+    "Time":1833,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44096974,37.52292278 ]
+    },
+    "properties": {
+    "OBJECTID":322,
+    "Date":"11/6/2012",
+    "Time":1040,
+    "Street1":"HULL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42065895,37.5714142 ]
+    },
+    "properties": {
+    "OBJECTID":69,
+    "Date":"9/14/2009",
+    "Time":1723,
+    "Street1":"WOODCLIFF AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46148953,37.4923427 ]
+    },
+    "properties": {
+    "OBJECTID":480,
+    "Date":"12/29/2014",
+    "Time":2200,
+    "Street1":"COFER ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41444116,37.54894278 ]
+    },
+    "properties": {
+    "OBJECTID":100,
+    "Date":"5/2/2010",
+    "Time":0,
+    "Street1":"FAIRFIELD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51228187,37.53586228 ]
+    },
+    "properties": {
+    "OBJECTID":166,
+    "Date":"2/27/2011",
+    "Time":1630,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44578761,37.57232686 ]
+    },
+    "properties": {
+    "OBJECTID":379,
+    "Date":"8/3/2013",
+    "Time":1854,
+    "Street1":"B1000 W BROOKLAND PARK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44356418,37.51473642 ]
+    },
+    "properties": {
+    "OBJECTID":150,
+    "Date":"11/2/2010",
+    "Time":1155,
+    "Street1":"16TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40616904,37.54964677 ]
+    },
+    "properties": {
+    "OBJECTID":419,
+    "Date":"3/9/2014",
+    "Time":1437,
+    "Street1":"SELDEN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45615098,37.55412654 ]
+    },
+    "properties": {
+    "OBJECTID":179,
+    "Date":"5/5/2011",
+    "Time":1550,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45530905,37.54718957 ]
+    },
+    "properties": {
+    "OBJECTID":393,
+    "Date":"9/19/2013",
+    "Time":1554,
+    "Street1":"HARRISON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46647653,37.54809494 ]
+    },
+    "properties": {
+    "OBJECTID":347,
+    "Date":"4/19/2013",
+    "Time":1510,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44831257,37.55217863 ]
+    },
+    "properties": {
+    "OBJECTID":208,
+    "Date":"8/9/2011",
+    "Time":2138,
+    "Street1":"B900 W CLAY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43712062,37.53736276 ]
+    },
+    "properties": {
+    "OBJECTID":256,
+    "Date":"3/25/2012",
+    "Time":650,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47139702,37.55252946 ]
+    },
+    "properties": {
+    "OBJECTID":251,
+    "Date":"3/3/2012",
+    "Time":2334,
+    "Street1":"DAVIS AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43169503,37.56989641 ]
+    },
+    "properties": {
+    "OBJECTID":390,
+    "Date":"9/12/2013",
+    "Time":2348,
+    "Street1":"BARTON AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47692464,37.55853178 ]
+    },
+    "properties": {
+    "OBJECTID":309,
+    "Date":"10/9/2012",
+    "Time":620,
+    "Street1":"BELMONT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46320001,37.55705578 ]
+    },
+    "properties": {
+    "OBJECTID":193,
+    "Date":"6/11/2011",
+    "Time":2000,
+    "Street1":"ALLISON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.53829467,37.53474135 ]
+    },
+    "properties": {
+    "OBJECTID":8,
+    "Date":"2/17/2009",
+    "Time":1254,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47561053,37.55268404 ]
+    },
+    "properties": {
+    "OBJECTID":372,
+    "Date":"7/8/2013",
+    "Time":2342,
+    "Street1":"BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41471335,37.54155974 ]
+    },
+    "properties": {
+    "OBJECTID":328,
+    "Date":"12/9/2012",
+    "Time":1853,
+    "Street1":"2100 R ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4762225,37.55157148 ]
+    },
+    "properties": {
+    "OBJECTID":35,
+    "Date":"5/29/2009",
+    "Time":2357,
+    "Street1":"BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44015083,37.54456666 ]
+    },
+    "properties": {
+    "OBJECTID":367,
+    "Date":"6/25/2013",
+    "Time":1300,
+    "Street1":"2ND ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44810883,37.56279225 ]
+    },
+    "properties": {
+    "OBJECTID":233,
+    "Date":"11/18/2011",
+    "Time":1500,
+    "Street1":"BROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45392633,37.55012444 ]
+    },
+    "properties": {
+    "OBJECTID":74,
+    "Date":"9/24/2009",
+    "Time":1422,
+    "Street1":"FRANKLIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47252898,37.55830152 ]
+    },
+    "properties": {
+    "OBJECTID":142,
+    "Date":"10/2/2010",
+    "Time":115,
+    "Street1":"BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51982099,37.57292336 ]
+    },
+    "properties": {
+    "OBJECTID":365,
+    "Date":"6/14/2013",
+    "Time":1646,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44730703,37.54884913 ]
+    },
+    "properties": {
+    "OBJECTID":408,
+    "Date":"11/27/2013",
+    "Time":1446,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41315153,37.54055667 ]
+    },
+    "properties": {
+    "OBJECTID":152,
+    "Date":"11/6/2010",
+    "Time":1415,
+    "Street1":"R ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43209571,37.54413183 ]
+    },
+    "properties": {
+    "OBJECTID":222,
+    "Date":"9/29/2011",
+    "Time":1749,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45377995,37.5527104 ]
+    },
+    "properties": {
+    "OBJECTID":125,
+    "Date":"8/25/2010",
+    "Time":2208,
+    "Street1":"RYLAND ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44251571,37.55937798 ]
+    },
+    "properties": {
+    "OBJECTID":147,
+    "Date":"10/15/2010",
+    "Time":732,
+    "Street1":"SCHOOL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.50224475,37.48341226 ]
+    },
+    "properties": {
+    "OBJECTID":36,
+    "Date":"5/30/2009",
+    "Time":20,
+    "Street1":"HULL STREET ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43194162,37.53555566 ]
+    },
+    "properties": {
+    "OBJECTID":124,
+    "Date":"8/22/2010",
+    "Time":2230,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.50713521,37.5327871 ]
+    },
+    "properties": {
+    "OBJECTID":6,
+    "Date":"2/13/2009",
+    "Time":814,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43836667,37.55219437 ]
+    },
+    "properties": {
+    "OBJECTID":436,
+    "Date":"5/26/2014",
+    "Time":2126,
+    "Street1":"W CHARITY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41854686,37.53643122 ]
+    },
+    "properties": {
+    "OBJECTID":189,
+    "Date":"6/2/2011",
+    "Time":1800,
+    "Street1":"M ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.49477729,37.55888771 ]
+    },
+    "properties": {
+    "OBJECTID":83,
+    "Date":"11/20/2009",
+    "Time":2022,
+    "Street1":"CARY STREET ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44381799,37.5113961 ]
+    },
+    "properties": {
+    "OBJECTID":137,
+    "Date":"9/22/2010",
+    "Time":1906,
+    "Street1":"DINWIDDIE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46972211,37.56498971 ]
+    },
+    "properties": {
+    "OBJECTID":232,
+    "Date":"11/18/2011",
+    "Time":1147,
+    "Street1":"2900 W CLAY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41444116,37.54894278 ]
+    },
+    "properties": {
+    "OBJECTID":56,
+    "Date":"8/13/2009",
+    "Time":2145,
+    "Street1":"MECHANICSVILLE TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46523491,37.55033353 ]
+    },
+    "properties": {
+    "OBJECTID":277,
+    "Date":"7/2/2012",
+    "Time":1258,
+    "Street1":"FLOYD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44467729,37.56907607 ]
+    },
+    "properties": {
+    "OBJECTID":423,
+    "Date":"4/9/2014",
+    "Time":1600,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4685375,37.56557541 ]
+    },
+    "properties": {
+    "OBJECTID":205,
+    "Date":"8/3/2011",
+    "Time":830,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47238858,37.5625135 ]
+    },
+    "properties": {
+    "OBJECTID":78,
+    "Date":"10/25/2009",
+    "Time":1839,
+    "Street1":"SHEPPARD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44699381,37.5446139 ]
+    },
+    "properties": {
+    "OBJECTID":333,
+    "Date":"1/11/2013",
+    "Time":1756,
+    "Street1":"MADISON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43665029,37.54379099 ]
+    },
+    "properties": {
+    "OBJECTID":71,
+    "Date":"9/16/2009",
+    "Time":1211,
+    "Street1":"MARSHALL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44860672,37.51808265 ]
+    },
+    "properties": {
+    "OBJECTID":43,
+    "Date":"7/10/2009",
+    "Time":42,
+    "Street1":"HULL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44313103,37.46729617 ]
+    },
+    "properties": {
+    "OBJECTID":294,
+    "Date":"8/27/2012",
+    "Time":1521,
+    "Street1":"JEFFERSON DAVIS HWY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48079789,37.55225633 ]
+    },
+    "properties": {
+    "OBJECTID":489,
+    "Date":"4/18/2015",
+    "Time":1953,
+    "Street1":"PARKWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47326913,37.55185355 ]
+    },
+    "properties": {
+    "OBJECTID":306,
+    "Date":"9/30/2012",
+    "Time":2057,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8987638,21.84881981 ]
+    },
+    "properties": {
+    "OBJECTID":10,
+    "Date":"3/1/2009",
+    "Time":1406,
+    "Street1":"BELT BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4445771,37.54722087 ]
+    },
+    "properties": {
+    "OBJECTID":139,
+    "Date":"9/28/2010",
+    "Time":1757,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48886721,37.55607719 ]
+    },
+    "properties": {
+    "OBJECTID":353,
+    "Date":"5/8/2013",
+    "Time":330,
+    "Street1":"THOMPSON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46521333,37.54764172 ]
+    },
+    "properties": {
+    "OBJECTID":190,
+    "Date":"6/2/2011",
+    "Time":2126,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41674658,37.53833738 ]
+    },
+    "properties": {
+    "OBJECTID":120,
+    "Date":"7/13/2010",
+    "Time":2340,
+    "Street1":"VENABLE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4473709,37.55931406 ]
+    },
+    "properties": {
+    "OBJECTID":5,
+    "Date":"2/10/2009",
+    "Time":722,
+    "Street1":"BROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4457888,37.54371331 ]
+    },
+    "properties": {
+    "OBJECTID":470,
+    "Date":"10/23/2014",
+    "Time":1032,
+    "Street1":"100 W MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47499487,37.55381304 ]
+    },
+    "properties": {
+    "OBJECTID":9,
+    "Date":"2/17/2009",
+    "Time":2305,
+    "Street1":"BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41694093,37.56961427 ]
+    },
+    "properties": {
+    "OBJECTID":206,
+    "Date":"8/3/2011",
+    "Time":1640,
+    "Street1":"DILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42851246,37.53343732 ]
+    },
+    "properties": {
+    "OBJECTID":344,
+    "Date":"4/12/2013",
+    "Time":1718,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46369432,37.50844872 ]
+    },
+    "properties": {
+    "OBJECTID":145,
+    "Date":"10/12/2010",
+    "Time":1600,
+    "Street1":"31ST ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45615098,37.55412654 ]
+    },
+    "properties": {
+    "OBJECTID":79,
+    "Date":"10/28/2009",
+    "Time":1522,
+    "Street1":"LOMBARDY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43128733,37.53621168 ]
+    },
+    "properties": {
+    "OBJECTID":331,
+    "Date":"1/4/2013",
+    "Time":1455,
+    "Street1":"14TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44528005,37.54358793 ]
+    },
+    "properties": {
+    "OBJECTID":478,
+    "Date":"12/10/2014",
+    "Time":800,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45261704,37.55793231 ]
+    },
+    "properties": {
+    "OBJECTID":197,
+    "Date":"6/23/2011",
+    "Time":1,
+    "Street1":"LOMBARDY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44166828,37.5499772 ]
+    },
+    "properties": {
+    "OBJECTID":224,
+    "Date":"10/5/2011",
+    "Time":1059,
+    "Street1":"W LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44410404,37.56567074 ]
+    },
+    "properties": {
+    "OBJECTID":163,
+    "Date":"2/16/2011",
+    "Time":756,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44627734,37.54823299 ]
+    },
+    "properties": {
+    "OBJECTID":301,
+    "Date":"9/16/2012",
+    "Time":323,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51423314,37.57932588 ]
+    },
+    "properties": {
+    "OBJECTID":180,
+    "Date":"5/16/2011",
+    "Time":1248,
+    "Street1":"LIBBIE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48900441,37.57793526 ]
+    },
+    "properties": {
+    "OBJECTID":278,
+    "Date":"7/2/2012",
+    "Time":1429,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44380763,37.56392954 ]
+    },
+    "properties": {
+    "OBJECTID":209,
+    "Date":"8/16/2011",
+    "Time":1756,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44380763,37.56392954 ]
+    },
+    "properties": {
+    "OBJECTID":55,
+    "Date":"8/13/2009",
+    "Time":1005,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47188503,37.55947421 ]
+    },
+    "properties": {
+    "OBJECTID":98,
+    "Date":"4/24/2010",
+    "Time":933,
+    "Street1":"BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45615098,37.55412654 ]
+    },
+    "properties": {
+    "OBJECTID":188,
+    "Date":"6/2/2011",
+    "Time":830,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44803389,37.54793548 ]
+    },
+    "properties": {
+    "OBJECTID":457,
+    "Date":"8/31/2014",
+    "Time":2140,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45615098,37.55412654 ]
+    },
+    "properties": {
+    "OBJECTID":454,
+    "Date":"8/24/2014",
+    "Time":1342,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47634586,37.56353648 ]
+    },
+    "properties": {
+    "OBJECTID":421,
+    "Date":"3/27/2014",
+    "Time":1044,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48957799,37.5606892 ]
+    },
+    "properties": {
+    "OBJECTID":438,
+    "Date":"5/31/2014",
+    "Time":2040,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47616823,37.50110845 ]
+    },
+    "properties": {
+    "OBJECTID":387,
+    "Date":"9/6/2013",
+    "Time":2125,
+    "Street1":"4110 HULL STREET ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43041814,37.57136254 ]
+    },
+    "properties": {
+    "OBJECTID":420,
+    "Date":"3/20/2014",
+    "Time":1850,
+    "Street1":"BROOKLAND PARK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46691869,37.5472968 ]
+    },
+    "properties": {
+    "OBJECTID":141,
+    "Date":"10/1/2010",
+    "Time":1748,
+    "Street1":"MEADOW ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48720099,37.52074234 ]
+    },
+    "properties": {
+    "OBJECTID":356,
+    "Date":"5/19/2013",
+    "Time":1025,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44857045,37.56530943 ]
+    },
+    "properties": {
+    "OBJECTID":194,
+    "Date":"6/15/2011",
+    "Time":910,
+    "Street1":"BROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5021741,37.4970539 ]
+    },
+    "properties": {
+    "OBJECTID":444,
+    "Date":"6/22/2014",
+    "Time":945,
+    "Street1":"BRAMWELL ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47075273,37.56153802 ]
+    },
+    "properties": {
+    "OBJECTID":269,
+    "Date":"6/2/2012",
+    "Time":1059,
+    "Street1":"BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44897488,37.54576855 ]
+    },
+    "properties": {
+    "OBJECTID":157,
+    "Date":"11/30/2010",
+    "Time":2310,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4627771,37.54945238 ]
+    },
+    "properties": {
+    "OBJECTID":452,
+    "Date":"8/6/2014",
+    "Time":1236,
+    "Street1":"FLOYD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43972155,37.54125321 ]
+    },
+    "properties": {
+    "OBJECTID":371,
+    "Date":"7/2/2013",
+    "Time":759,
+    "Street1":"411 E FRANKLIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41724322,37.56922977 ]
+    },
+    "properties": {
+    "OBJECTID":215,
+    "Date":"8/31/2011",
+    "Time":840,
+    "Street1":"BROOKLAND PARK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42925416,37.5380253 ]
+    },
+    "properties": {
+    "OBJECTID":76,
+    "Date":"10/2/2009",
+    "Time":1244,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46585747,37.54921288 ]
+    },
+    "properties": {
+    "OBJECTID":62,
+    "Date":"8/28/2009",
+    "Time":1650,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.50834409,37.57579146 ]
+    },
+    "properties": {
+    "OBJECTID":64,
+    "Date":"9/3/2009",
+    "Time":1602,
+    "Street1":"PATTERSON AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44474219,37.56814007 ]
+    },
+    "properties": {
+    "OBJECTID":369,
+    "Date":"6/26/2013",
+    "Time":1956,
+    "Street1":"2700 CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42040362,37.56516896 ]
+    },
+    "properties": {
+    "OBJECTID":105,
+    "Date":"5/24/2010",
+    "Time":1638,
+    "Street1":"MAGNOLIA ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44730376,37.58454869 ]
+    },
+    "properties": {
+    "OBJECTID":430,
+    "Date":"5/12/2014",
+    "Time":1045,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44113732,37.50930949 ]
+    },
+    "properties": {
+    "OBJECTID":127,
+    "Date":"8/27/2010",
+    "Time":1045,
+    "Street1":"GORDON AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44391379,37.55490257 ]
+    },
+    "properties": {
+    "OBJECTID":339,
+    "Date":"1/30/2013",
+    "Time":1103,
+    "Street1":"BROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44514717,37.57419431 ]
+    },
+    "properties": {
+    "OBJECTID":230,
+    "Date":"10/29/2011",
+    "Time":900,
+    "Street1":"3021 CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46362159,37.50572074 ]
+    },
+    "properties": {
+    "OBJECTID":177,
+    "Date":"4/30/2011",
+    "Time":1845,
+    "Street1":"32ND ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44866111,37.51937127 ]
+    },
+    "properties": {
+    "OBJECTID":123,
+    "Date":"8/19/2010",
+    "Time":1700,
+    "Street1":"BAINBRIDGE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45377995,37.5527104 ]
+    },
+    "properties": {
+    "OBJECTID":405,
+    "Date":"11/11/2013",
+    "Time":1018,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45528613,37.54586004 ]
+    },
+    "properties": {
+    "OBJECTID":412,
+    "Date":"12/27/2013",
+    "Time":1512,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47948319,37.55406049 ]
+    },
+    "properties": {
+    "OBJECTID":318,
+    "Date":"10/31/2012",
+    "Time":1720,
+    "Street1":"ELLWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48016868,37.55032285 ]
+    },
+    "properties": {
+    "OBJECTID":212,
+    "Date":"8/21/2011",
+    "Time":239,
+    "Street1":"3000 IDLEWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43653411,37.54688258 ]
+    },
+    "properties": {
+    "OBJECTID":409,
+    "Date":"1/9/2013",
+    "Time":115,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42851246,37.53343732 ]
+    },
+    "properties": {
+    "OBJECTID":450,
+    "Date":"8/3/2014",
+    "Time":940,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46859524,37.50531095 ]
+    },
+    "properties": {
+    "OBJECTID":242,
+    "Date":"1/7/2012",
+    "Time":1159,
+    "Street1":"36TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44546767,37.573733 ]
+    },
+    "properties": {
+    "OBJECTID":30,
+    "Date":"5/20/2009",
+    "Time":1710,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.52633125,37.57700887 ]
+    },
+    "properties": {
+    "OBJECTID":286,
+    "Date":"8/6/2012",
+    "Time":1523,
+    "Street1":"THREE CHOPT ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4677123,37.54853691 ]
+    },
+    "properties": {
+    "OBJECTID":447,
+    "Date":"7/27/2014",
+    "Time":7,
+    "Street1":"ROWLAND ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43303842,37.54162995 ]
+    },
+    "properties": {
+    "OBJECTID":27,
+    "Date":"5/18/2009",
+    "Time":1045,
+    "Street1":"MARSHALL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44598264,37.55252049 ]
+    },
+    "properties": {
+    "OBJECTID":68,
+    "Date":"9/14/2009",
+    "Time":850,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43492235,37.53817798 ]
+    },
+    "properties": {
+    "OBJECTID":453,
+    "Date":"8/8/2014",
+    "Time":1640,
+    "Street1":"BANK ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44875038,37.54702174 ]
+    },
+    "properties": {
+    "OBJECTID":440,
+    "Date":"6/9/2014",
+    "Time":1521,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46704877,37.58401642 ]
+    },
+    "properties": {
+    "OBJECTID":40,
+    "Date":"6/24/2009",
+    "Time":820,
+    "Street1":"LABURNUM AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41087989,37.53093654 ]
+    },
+    "properties": {
+    "OBJECTID":1,
+    "Date":"1/2/2009",
+    "Time":2307,
+    "Street1":"31ST ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4554814,37.55464524 ]
+    },
+    "properties": {
+    "OBJECTID":261,
+    "Date":"4/25/2012",
+    "Time":1710,
+    "Street1":"711 N LOMBARDY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8987638,21.84881981 ]
+    },
+    "properties": {
+    "OBJECTID":29,
+    "Date":"5/20/2009",
+    "Time":218,
+    "Street1":"GRACE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46713946,37.47675851 ]
+    },
+    "properties": {
+    "OBJECTID":240,
+    "Date":"1/1/2012",
+    "Time":1233,
+    "Street1":"OLD POST ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44860672,37.51808265 ]
+    },
+    "properties": {
+    "OBJECTID":32,
+    "Date":"5/22/2009",
+    "Time":1344,
+    "Street1":"JEFFERSON DAVIS HWY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51510397,37.53658887 ]
+    },
+    "properties": {
+    "OBJECTID":220,
+    "Date":"9/17/2011",
+    "Time":630,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45348217,37.55700063 ]
+    },
+    "properties": {
+    "OBJECTID":473,
+    "Date":"10/31/2014",
+    "Time":1536,
+    "Street1":"LOMBARDY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44396386,37.56484278 ]
+    },
+    "properties": {
+    "OBJECTID":169,
+    "Date":"3/14/2011",
+    "Time":2110,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45530905,37.54718957 ]
+    },
+    "properties": {
+    "OBJECTID":477,
+    "Date":"12/8/2014",
+    "Time":1924,
+    "Street1":"HARRISON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46058877,37.55677749 ]
+    },
+    "properties": {
+    "OBJECTID":391,
+    "Date":"9/14/2013",
+    "Time":831,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40371554,37.52794263 ]
+    },
+    "properties": {
+    "OBJECTID":360,
+    "Date":"5/31/2013",
+    "Time":2200,
+    "Street1":"M ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48765046,37.55830249 ]
+    },
+    "properties": {
+    "OBJECTID":51,
+    "Date":"7/30/2009",
+    "Time":2127,
+    "Street1":"THOMPSON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46585747,37.54921288 ]
+    },
+    "properties": {
+    "OBJECTID":403,
+    "Date":"10/25/2013",
+    "Time":1700,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44860678,37.55408186 ]
+    },
+    "properties": {
+    "OBJECTID":399,
+    "Date":"10/9/2013",
+    "Time":1440,
+    "Street1":"HANCOCK ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44089336,37.54229914 ]
+    },
+    "properties": {
+    "OBJECTID":104,
+    "Date":"5/24/2010",
+    "Time":1206,
+    "Street1":"3RD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4320743,37.55316507 ]
+    },
+    "properties": {
+    "OBJECTID":289,
+    "Date":"8/8/2012",
+    "Time":1738,
+    "Street1":"HILL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48654882,37.56963902 ]
+    },
+    "properties": {
+    "OBJECTID":377,
+    "Date":"8/2/2013",
+    "Time":1700,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47324972,37.55453676 ]
+    },
+    "properties": {
+    "OBJECTID":172,
+    "Date":"4/9/2011",
+    "Time":903,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4688268,37.50099535 ]
+    },
+    "properties": {
+    "OBJECTID":250,
+    "Date":"3/1/2012",
+    "Time":1846,
+    "Street1":"MCGUIRE DR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45170037,37.52323241 ]
+    },
+    "properties": {
+    "OBJECTID":96,
+    "Date":"4/18/2010",
+    "Time":1435,
+    "Street1":"SEMMES AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44730703,37.54884913 ]
+    },
+    "properties": {
+    "OBJECTID":223,
+    "Date":"10/3/2011",
+    "Time":835,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43035881,37.53456635 ]
+    },
+    "properties": {
+    "OBJECTID":431,
+    "Date":"5/13/2014",
+    "Time":1722,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46052155,37.56537908 ]
+    },
+    "properties": {
+    "OBJECTID":154,
+    "Date":"11/13/2010",
+    "Time":1400,
+    "Street1":"HERMITAGE ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4596761,37.54968614 ]
+    },
+    "properties": {
+    "OBJECTID":77,
+    "Date":"10/4/2009",
+    "Time":15,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44917128,37.51913685 ]
+    },
+    "properties": {
+    "OBJECTID":389,
+    "Date":"9/9/2013",
+    "Time":1738,
+    "Street1":"COWARDIN AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42310344,37.5301446 ]
+    },
+    "properties": {
+    "OBJECTID":199,
+    "Date":"6/29/2011",
+    "Time":1731,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47437578,37.55493926 ]
+    },
+    "properties": {
+    "OBJECTID":225,
+    "Date":"10/10/2011",
+    "Time":1920,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.53119734,37.56815001 ]
+    },
+    "properties": {
+    "OBJECTID":282,
+    "Date":"7/29/2012",
+    "Time":2224,
+    "Street1":"RIVER ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46894813,37.54897613 ]
+    },
+    "properties": {
+    "OBJECTID":396,
+    "Date":"10/4/2013",
+    "Time":1644,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43745558,37.54294678 ]
+    },
+    "properties": {
+    "OBJECTID":460,
+    "Date":"9/12/2014",
+    "Time":1550,
+    "Street1":"5TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42851246,37.53343732 ]
+    },
+    "properties": {
+    "OBJECTID":187,
+    "Date":"5/31/2011",
+    "Time":750,
+    "Street1":"17TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44274881,37.54477113 ]
+    },
+    "properties": {
+    "OBJECTID":317,
+    "Date":"10/28/2012",
+    "Time":1612,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45187062,37.58819807 ]
+    },
+    "properties": {
+    "OBJECTID":327,
+    "Date":"12/3/2012",
+    "Time":1620,
+    "Street1":"BROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47349803,37.5643935 ]
+    },
+    "properties": {
+    "OBJECTID":92,
+    "Date":"4/1/2010",
+    "Time":5,
+    "Street1":"BELMONT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8987638,21.84881981 ]
+    },
+    "properties": {
+    "OBJECTID":475,
+    "Date":"11/8/2014",
+    "Time":214,
+    "Street1":"600 S ROBINSON AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41995373,37.57270416 ]
+    },
+    "properties": {
+    "OBJECTID":107,
+    "Date":"6/1/2010",
+    "Time":1754,
+    "Street1":"MEADOWBRIDGE ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44329759,37.48021767 ]
+    },
+    "properties": {
+    "OBJECTID":472,
+    "Date":"10/28/2014",
+    "Time":1627,
+    "Street1":"COLUMBIA ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44332352,37.53971434 ]
+    },
+    "properties": {
+    "OBJECTID":375,
+    "Date":"7/24/2013",
+    "Time":1416,
+    "Street1":"3RD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51845366,37.57298896 ]
+    },
+    "properties": {
+    "OBJECTID":192,
+    "Date":"6/4/2011",
+    "Time":1139,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48298885,37.47013905 ]
+    },
+    "properties": {
+    "OBJECTID":3,
+    "Date":"1/17/2009",
+    "Time":1924,
+    "Street1":"BROAD ROCK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4402164,37.4953898 ]
+    },
+    "properties": {
+    "OBJECTID":312,
+    "Date":"10/14/2012",
+    "Time":1131,
+    "Street1":"ROYALL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45615098,37.55412654 ]
+    },
+    "properties": {
+    "OBJECTID":249,
+    "Date":"2/25/2012",
+    "Time":2054,
+    "Street1":"LOMBARDY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41146195,37.53932718 ]
+    },
+    "properties": {
+    "OBJECTID":485,
+    "Date":"3/22/2015",
+    "Time":1945,
+    "Street1":"R ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44875038,37.54702174 ]
+    },
+    "properties": {
+    "OBJECTID":468,
+    "Date":"10/21/2014",
+    "Time":1830,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47264662,37.55297699 ]
+    },
+    "properties": {
+    "OBJECTID":11,
+    "Date":"3/10/2009",
+    "Time":813,
+    "Street1":"FLOYD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42056485,37.5736408 ]
+    },
+    "properties": {
+    "OBJECTID":397,
+    "Date":"10/5/2013",
+    "Time":1430,
+    "Street1":"NORTHSIDE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44210373,37.56560622 ]
+    },
+    "properties": {
+    "OBJECTID":24,
+    "Date":"5/2/2009",
+    "Time":2349,
+    "Street1":"OVERBROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47130473,37.56053208 ]
+    },
+    "properties": {
+    "OBJECTID":239,
+    "Date":"12/30/2011",
+    "Time":845,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47326913,37.55185355 ]
+    },
+    "properties": {
+    "OBJECTID":33,
+    "Date":"5/27/2009",
+    "Time":140,
+    "Street1":"ROBINSON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42408574,37.53211457 ]
+    },
+    "properties": {
+    "OBJECTID":407,
+    "Date":"11/26/2013",
+    "Time":850,
+    "Street1":"21ST ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47953185,37.57004027 ]
+    },
+    "properties": {
+    "OBJECTID":433,
+    "Date":"5/20/2014",
+    "Time":1600,
+    "Street1":"HAMILTON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51392111,37.50344737 ]
+    },
+    "properties": {
+    "OBJECTID":362,
+    "Date":"6/2/2013",
+    "Time":2020,
+    "Street1":"MIDLOTHIAN TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46731136,37.54658611 ]
+    },
+    "properties": {
+    "OBJECTID":467,
+    "Date":"10/20/2014",
+    "Time":1430,
+    "Street1":"MEADOW ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44467729,37.56907607 ]
+    },
+    "properties": {
+    "OBJECTID":87,
+    "Date":"1/19/2010",
+    "Time":1254,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4492756,37.5723743 ]
+    },
+    "properties": {
+    "OBJECTID":443,
+    "Date":"6/19/2014",
+    "Time":730,
+    "Street1":"BROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46852418,37.56151866 ]
+    },
+    "properties": {
+    "OBJECTID":57,
+    "Date":"8/19/2009",
+    "Time":1620,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45615098,37.55412654 ]
+    },
+    "properties": {
+    "OBJECTID":86,
+    "Date":"12/21/2009",
+    "Time":1400,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47014674,37.50152868 ]
+    },
+    "properties": {
+    "OBJECTID":370,
+    "Date":"6/28/2013",
+    "Time":603,
+    "Street1":"SPAINE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47158351,37.5633552 ]
+    },
+    "properties": {
+    "OBJECTID":414,
+    "Date":"1/6/2014",
+    "Time":1410,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46585747,37.54921288 ]
+    },
+    "properties": {
+    "OBJECTID":299,
+    "Date":"9/8/2012",
+    "Time":325,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43273195,37.57147402 ]
+    },
+    "properties": {
+    "OBJECTID":45,
+    "Date":"7/22/2009",
+    "Time":1604,
+    "Street1":"BROOKLAND PARK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44213184,37.57194276 ]
+    },
+    "properties": {
+    "OBJECTID":244,
+    "Date":"2/4/2012",
+    "Time":1830,
+    "Street1":"BROOKLAND PARK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43303842,37.54162995 ]
+    },
+    "properties": {
+    "OBJECTID":153,
+    "Date":"11/10/2010",
+    "Time":815,
+    "Street1":"MARSHALL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41909246,37.5668489 ]
+    },
+    "properties": {
+    "OBJECTID":63,
+    "Date":"9/1/2009",
+    "Time":1125,
+    "Street1":"3RD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46691869,37.5472968 ]
+    },
+    "properties": {
+    "OBJECTID":307,
+    "Date":"10/4/2012",
+    "Time":1800,
+    "Street1":"PARKWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46647653,37.54809494 ]
+    },
+    "properties": {
+    "OBJECTID":4,
+    "Date":"1/22/2009",
+    "Time":803,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41724322,37.56922977 ]
+    },
+    "properties": {
+    "OBJECTID":155,
+    "Date":"11/17/2010",
+    "Time":1110,
+    "Street1":"BROOKLAND PARK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44169541,37.54143564 ]
+    },
+    "properties": {
+    "OBJECTID":352,
+    "Date":"5/7/2013",
+    "Time":1405,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41322404,37.5419828 ]
+    },
+    "properties": {
+    "OBJECTID":184,
+    "Date":"5/25/2011",
+    "Time":343,
+    "Street1":"FAIRMOUNT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43270275,37.53684791 ]
+    },
+    "properties": {
+    "OBJECTID":368,
+    "Date":"6/26/2013",
+    "Time":844,
+    "Street1":"GOVERNOR ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4442231,37.54025244 ]
+    },
+    "properties": {
+    "OBJECTID":116,
+    "Date":"6/18/2010",
+    "Time":1604,
+    "Street1":"2ND ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.414109,37.51773313 ]
+    },
+    "properties": {
+    "OBJECTID":462,
+    "Date":"9/22/2014",
+    "Time":1225,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44708981,37.54736406 ]
+    },
+    "properties": {
+    "OBJECTID":349,
+    "Date":"4/26/2013",
+    "Time":1715,
+    "Street1":"HENRY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44897488,37.54576855 ]
+    },
+    "properties": {
+    "OBJECTID":231,
+    "Date":"11/11/2011",
+    "Time":1555,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46832224,37.55009127 ]
+    },
+    "properties": {
+    "OBJECTID":178,
+    "Date":"5/2/2011",
+    "Time":132,
+    "Street1":"SHIELDS AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43259558,37.54366667 ]
+    },
+    "properties": {
+    "OBJECTID":80,
+    "Date":"11/9/2009",
+    "Time":1821,
+    "Street1":"N 8TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47697358,37.55316272 ]
+    },
+    "properties": {
+    "OBJECTID":268,
+    "Date":"5/27/2012",
+    "Time":237,
+    "Street1":"ELLWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45170946,37.53915158 ]
+    },
+    "properties": {
+    "OBJECTID":217,
+    "Date":"9/10/2011",
+    "Time":1849,
+    "Street1":"SPRING ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4523156,37.5518378 ]
+    },
+    "properties": {
+    "OBJECTID":61,
+    "Date":"8/28/2009",
+    "Time":1044,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41282334,37.57135637 ]
+    },
+    "properties": {
+    "OBJECTID":275,
+    "Date":"6/21/2012",
+    "Time":1825,
+    "Street1":"B3200 DILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44788495,37.54650046 ]
+    },
+    "properties": {
+    "OBJECTID":234,
+    "Date":"11/23/2011",
+    "Time":1207,
+    "Street1":"FRANKLIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41158666,37.55358302 ]
+    },
+    "properties": {
+    "OBJECTID":321,
+    "Date":"11/2/2012",
+    "Time":1841,
+    "Street1":"MECHANICSVILLE TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45312096,37.55098249 ]
+    },
+    "properties": {
+    "OBJECTID":236,
+    "Date":"12/9/2011",
+    "Time":1118,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41006128,37.55599972 ]
+    },
+    "properties": {
+    "OBJECTID":320,
+    "Date":"11/1/2012",
+    "Time":1534,
+    "Street1":"MECHANICSVILLE TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44449659,37.48368358 ]
+    },
+    "properties": {
+    "OBJECTID":22,
+    "Date":"4/26/2009",
+    "Time":1644,
+    "Street1":"2911 JEFFERSON DAVIS HWY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.39538727,37.51548369 ]
+    },
+    "properties": {
+    "OBJECTID":292,
+    "Date":"8/18/2012",
+    "Time":1420,
+    "Street1":"PARKER ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8987638,21.84881981 ]
+    },
+    "properties": {
+    "OBJECTID":221,
+    "Date":"9/23/2011",
+    "Time":1916,
+    "Street1":"HULL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41691029,37.54421105 ]
+    },
+    "properties": {
+    "OBJECTID":54,
+    "Date":"8/5/2009",
+    "Time":1350,
+    "Street1":"MOSBY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43194162,37.53555566 ]
+    },
+    "properties": {
+    "OBJECTID":342,
+    "Date":"3/8/2013",
+    "Time":1225,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46521333,37.54764172 ]
+    },
+    "properties": {
+    "OBJECTID":406,
+    "Date":"11/13/2013",
+    "Time":2307,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42866474,37.56098947 ]
+    },
+    "properties": {
+    "OBJECTID":415,
+    "Date":"2/1/2014",
+    "Time":1717,
+    "Street1":"RICHMOND HENRICO TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47948319,37.55406049 ]
+    },
+    "properties": {
+    "OBJECTID":340,
+    "Date":"2/7/2013",
+    "Time":2151,
+    "Street1":"ELLWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40748921,37.55090589 ]
+    },
+    "properties": {
+    "OBJECTID":18,
+    "Date":"4/9/2009",
+    "Time":2000,
+    "Street1":"21ST ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43348463,37.53570688 ]
+    },
+    "properties": {
+    "OBJECTID":218,
+    "Date":"9/12/2011",
+    "Time":1500,
+    "Street1":"EXCHANGE AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44205581,37.58469426 ]
+    },
+    "properties": {
+    "OBJECTID":81,
+    "Date":"11/10/2009",
+    "Time":1915,
+    "Street1":"LABURNUM AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44985724,37.54902829 ]
+    },
+    "properties": {
+    "OBJECTID":385,
+    "Date":"8/30/2013",
+    "Time":2340,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.55313781,37.54522899 ]
+    },
+    "properties": {
+    "OBJECTID":174,
+    "Date":"4/19/2011",
+    "Time":1010,
+    "Street1":"HUGUENOT ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43208483,37.54562586 ]
+    },
+    "properties": {
+    "OBJECTID":465,
+    "Date":"10/14/2014",
+    "Time":1645,
+    "Street1":"7TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.49511752,37.52467139 ]
+    },
+    "properties": {
+    "OBJECTID":136,
+    "Date":"9/21/2010",
+    "Time":1637,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48187193,37.47449928 ]
+    },
+    "properties": {
+    "OBJECTID":173,
+    "Date":"4/17/2011",
+    "Time":1814,
+    "Street1":"BROAD ROCK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48829352,37.55717641 ]
+    },
+    "properties": {
+    "OBJECTID":324,
+    "Date":"11/16/2012",
+    "Time":1415,
+    "Street1":"THOMPSON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44543923,37.54773116 ]
+    },
+    "properties": {
+    "OBJECTID":283,
+    "Date":"8/2/2012",
+    "Time":1416,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48166672,37.47514845 ]
+    },
+    "properties": {
+    "OBJECTID":395,
+    "Date":"9/24/2013",
+    "Time":1756,
+    "Street1":"BROAD ROCK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46010165,37.55383442 ]
+    },
+    "properties": {
+    "OBJECTID":284,
+    "Date":"8/3/2012",
+    "Time":845,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44730703,37.54884913 ]
+    },
+    "properties": {
+    "OBJECTID":255,
+    "Date":"3/20/2012",
+    "Time":1932,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45312096,37.55098249 ]
+    },
+    "properties": {
+    "OBJECTID":246,
+    "Date":"2/13/2012",
+    "Time":1506,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44185946,37.5442386 ]
+    },
+    "properties": {
+    "OBJECTID":164,
+    "Date":"2/17/2011",
+    "Time":1155,
+    "Street1":"1ST ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44433665,37.47936175 ]
+    },
+    "properties": {
+    "OBJECTID":325,
+    "Date":"11/19/2012",
+    "Time":744,
+    "Street1":"RUFFIN ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42514779,37.53550524 ]
+    },
+    "properties": {
+    "OBJECTID":110,
+    "Date":"6/7/2010",
+    "Time":2240,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46058877,37.55677749 ]
+    },
+    "properties": {
+    "OBJECTID":401,
+    "Date":"10/17/2013",
+    "Time":1300,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44017006,37.54907393 ]
+    },
+    "properties": {
+    "OBJECTID":297,
+    "Date":"9/6/2012",
+    "Time":904,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51998187,37.53810145 ]
+    },
+    "properties": {
+    "OBJECTID":37,
+    "Date":"5/31/2009",
+    "Time":1504,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48593459,37.55634603 ]
+    },
+    "properties": {
+    "OBJECTID":42,
+    "Date":"7/9/2009",
+    "Time":1630,
+    "Street1":"NANSEMOND ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46278301,37.54677455 ]
+    },
+    "properties": {
+    "OBJECTID":338,
+    "Date":"1/27/2013",
+    "Time":131,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46280592,37.51736731 ]
+    },
+    "properties": {
+    "OBJECTID":337,
+    "Date":"1/25/2013",
+    "Time":735,
+    "Street1":"29TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44104358,37.54510197 ]
+    },
+    "properties": {
+    "OBJECTID":162,
+    "Date":"2/13/2011",
+    "Time":1150,
+    "Street1":"1ST ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45615098,37.55412654 ]
+    },
+    "properties": {
+    "OBJECTID":264,
+    "Date":"5/2/2012",
+    "Time":2117,
+    "Street1":"LOMBARDY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45969239,37.54701389 ]
+    },
+    "properties": {
+    "OBJECTID":89,
+    "Date":"3/1/2010",
+    "Time":1730,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48036289,37.5530436 ]
+    },
+    "properties": {
+    "OBJECTID":58,
+    "Date":"8/20/2009",
+    "Time":1206,
+    "Street1":"BELMONT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.52993555,37.57902413 ]
+    },
+    "properties": {
+    "OBJECTID":290,
+    "Date":"8/14/2012",
+    "Time":2015,
+    "Street1":"TOWANA ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4523156,37.5518378 ]
+    },
+    "properties": {
+    "OBJECTID":149,
+    "Date":"10/27/2010",
+    "Time":1346,
+    "Street1":"HARRISON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43801684,37.53788989 ]
+    },
+    "properties": {
+    "OBJECTID":228,
+    "Date":"10/18/2011",
+    "Time":950,
+    "Street1":"8TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42260809,37.58011102 ]
+    },
+    "properties": {
+    "OBJECTID":167,
+    "Date":"3/4/2011",
+    "Time":2050,
+    "Street1":"MEADOWBRIDGE ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44875038,37.54702174 ]
+    },
+    "properties": {
+    "OBJECTID":182,
+    "Date":"5/23/2011",
+    "Time":1454,
+    "Street1":"FRANKLIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41645452,37.52486001 ]
+    },
+    "properties": {
+    "OBJECTID":97,
+    "Date":"4/18/2010",
+    "Time":1825,
+    "Street1":"WILLIAMSBURG AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42241922,37.533849 ]
+    },
+    "properties": {
+    "OBJECTID":315,
+    "Date":"10/22/2012",
+    "Time":1552,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.49407504,37.51521163 ]
+    },
+    "properties": {
+    "OBJECTID":254,
+    "Date":"3/19/2012",
+    "Time":1354,
+    "Street1":"BOROUGHBRIDGE ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46221963,37.55509991 ]
+    },
+    "properties": {
+    "OBJECTID":168,
+    "Date":"3/11/2011",
+    "Time":2312,
+    "Street1":"MEADOW ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47018401,37.54941258 ]
+    },
+    "properties": {
+    "OBJECTID":449,
+    "Date":"8/2/2014",
+    "Time":158,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45312096,37.55098249 ]
+    },
+    "properties": {
+    "OBJECTID":134,
+    "Date":"9/19/2010",
+    "Time":1,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44259845,37.54197379 ]
+    },
+    "properties": {
+    "OBJECTID":273,
+    "Date":"6/15/2012",
+    "Time":230,
+    "Street1":"2ND ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41095944,37.53234901 ]
+    },
+    "properties": {
+    "OBJECTID":52,
+    "Date":"8/4/2009",
+    "Time":1955,
+    "Street1":"M ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46901013,37.5434506 ]
+    },
+    "properties": {
+    "OBJECTID":19,
+    "Date":"4/11/2009",
+    "Time":2330,
+    "Street1":"MEADOW ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43929944,37.52399 ]
+    },
+    "properties": {
+    "OBJECTID":59,
+    "Date":"8/23/2009",
+    "Time":220,
+    "Street1":"HULL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47015507,37.56285392 ]
+    },
+    "properties": {
+    "OBJECTID":219,
+    "Date":"9/16/2011",
+    "Time":1725,
+    "Street1":"900 N BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45170037,37.52323241 ]
+    },
+    "properties": {
+    "OBJECTID":186,
+    "Date":"5/29/2011",
+    "Time":2011,
+    "Street1":"COWARDIN AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4651911,37.55952859 ]
+    },
+    "properties": {
+    "OBJECTID":185,
+    "Date":"5/26/2011",
+    "Time":1037,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.49158413,37.52277372 ]
+    },
+    "properties": {
+    "OBJECTID":41,
+    "Date":"6/26/2009",
+    "Time":1804,
+    "Street1":"JAHNKE ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44285312,37.54618379 ]
+    },
+    "properties": {
+    "OBJECTID":479,
+    "Date":"12/10/2014",
+    "Time":1635,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42764399,37.53290761 ]
+    },
+    "properties": {
+    "OBJECTID":266,
+    "Date":"5/13/2012",
+    "Time":1020,
+    "Street1":"18TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41586072,37.52036117 ]
+    },
+    "properties": {
+    "OBJECTID":93,
+    "Date":"4/7/2010",
+    "Time":2015,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46340117,37.54422291 ]
+    },
+    "properties": {
+    "OBJECTID":394,
+    "Date":"9/21/2013",
+    "Time":1253,
+    "Street1":"IDLEWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42037995,37.57017846 ]
+    },
+    "properties": {
+    "OBJECTID":413,
+    "Date":"1/3/2014",
+    "Time":1734,
+    "Street1":"1200 E BROOKLAND PARK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47079052,37.55096965 ]
+    },
+    "properties": {
+    "OBJECTID":314,
+    "Date":"10/19/2012",
+    "Time":1654,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45165146,37.54182622 ]
+    },
+    "properties": {
+    "OBJECTID":418,
+    "Date":"3/6/2014",
+    "Time":45,
+    "Street1":"LAUREL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44803389,37.54793548 ]
+    },
+    "properties": {
+    "OBJECTID":91,
+    "Date":"3/20/2010",
+    "Time":1810,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45469266,37.55058438 ]
+    },
+    "properties": {
+    "OBJECTID":117,
+    "Date":"6/28/2010",
+    "Time":1042,
+    "Street1":"FRANKLIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360965,37.51638623 ]
+    },
+    "properties": {
+    "OBJECTID":491,
+    "Date":"5/29/2015",
+    "Time":1,
+    "Street1":"COMMERCE ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47201954,37.55140602 ]
+    },
+    "properties": {
+    "OBJECTID":302,
+    "Date":"9/16/2012",
+    "Time":1330,
+    "Street1":"DAVIS AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42424515,37.53495323 ]
+    },
+    "properties": {
+    "OBJECTID":270,
+    "Date":"6/2/2012",
+    "Time":2005,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45065585,37.54816196 ]
+    },
+    "properties": {
+    "OBJECTID":374,
+    "Date":"7/17/2013",
+    "Time":1718,
+    "Street1":"LAUREL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47883327,37.55517548 ]
+    },
+    "properties": {
+    "OBJECTID":361,
+    "Date":"5/31/2013",
+    "Time":637,
+    "Street1":"FLOYD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47370307,37.48420114 ]
+    },
+    "properties": {
+    "OBJECTID":128,
+    "Date":"9/4/2010",
+    "Time":1220,
+    "Street1":"POMPEY SPRING ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47850218,37.48308356 ]
+    },
+    "properties": {
+    "OBJECTID":15,
+    "Date":"3/28/2009",
+    "Time":1541,
+    "Street1":"WARWICK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.49191239,37.58033576 ]
+    },
+    "properties": {
+    "OBJECTID":330,
+    "Date":"12/21/2012",
+    "Time":1119,
+    "Street1":"CHANTILLY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4762225,37.55157148 ]
+    },
+    "properties": {
+    "OBJECTID":48,
+    "Date":"7/26/2009",
+    "Time":1728,
+    "Street1":"BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46731136,37.54658611 ]
+    },
+    "properties": {
+    "OBJECTID":311,
+    "Date":"10/9/2012",
+    "Time":1630,
+    "Street1":"MEADOW ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42606063,37.53606832 ]
+    },
+    "properties": {
+    "OBJECTID":214,
+    "Date":"8/30/2011",
+    "Time":1650,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43035881,37.53456635 ]
+    },
+    "properties": {
+    "OBJECTID":99,
+    "Date":"4/26/2010",
+    "Time":1540,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.50713521,37.5327871 ]
+    },
+    "properties": {
+    "OBJECTID":122,
+    "Date":"7/19/2010",
+    "Time":1007,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4492359,37.53647376 ]
+    },
+    "properties": {
+    "OBJECTID":343,
+    "Date":"3/31/2013",
+    "Time":230,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.49589697,37.57888918 ]
+    },
+    "properties": {
+    "OBJECTID":281,
+    "Date":"7/28/2012",
+    "Time":925,
+    "Street1":"STAPLES MILL ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44548245,37.50334421 ]
+    },
+    "properties": {
+    "OBJECTID":257,
+    "Date":"4/7/2012",
+    "Time":835,
+    "Street1":"HARWOOD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47912498,37.4821441 ]
+    },
+    "properties": {
+    "OBJECTID":398,
+    "Date":"10/6/2013",
+    "Time":2130,
+    "Street1":"OLD WARWICK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40900788,37.54491038 ]
+    },
+    "properties": {
+    "OBJECTID":158,
+    "Date":"12/1/2010",
+    "Time":1900,
+    "Street1":"23RD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45596121,37.51340159 ]
+    },
+    "properties": {
+    "OBJECTID":202,
+    "Date":"7/18/2011",
+    "Time":1017,
+    "Street1":"CLOPTON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41630611,37.56314858 ]
+    },
+    "properties": {
+    "OBJECTID":378,
+    "Date":"8/3/2013",
+    "Time":1141,
+    "Street1":"RADY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4685375,37.56557541 ]
+    },
+    "properties": {
+    "OBJECTID":373,
+    "Date":"7/17/2013",
+    "Time":1240,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43745214,37.54294675 ]
+    },
+    "properties": {
+    "OBJECTID":350,
+    "Date":"4/29/2013",
+    "Time":1036,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43743703,37.54743175 ]
+    },
+    "properties": {
+    "OBJECTID":323,
+    "Date":"11/9/2012",
+    "Time":1125,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42402379,37.5482501 ]
+    },
+    "properties": {
+    "OBJECTID":355,
+    "Date":"5/17/2013",
+    "Time":1612,
+    "Street1":"FAIRFIELD WAY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46769916,37.54020101 ]
+    },
+    "properties": {
+    "OBJECTID":279,
+    "Date":"7/3/2012",
+    "Time":2120,
+    "Street1":"WINDER ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40904458,37.55759162 ]
+    },
+    "properties": {
+    "OBJECTID":31,
+    "Date":"5/21/2009",
+    "Time":1140,
+    "Street1":"MECHANICSVILLE TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4358217,37.53872713 ]
+    },
+    "properties": {
+    "OBJECTID":109,
+    "Date":"6/3/2010",
+    "Time":1757,
+    "Street1":"BANK ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43924096,37.54402294 ]
+    },
+    "properties": {
+    "OBJECTID":474,
+    "Date":"11/3/2014",
+    "Time":1334,
+    "Street1":"3RD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45530905,37.54718957 ]
+    },
+    "properties": {
+    "OBJECTID":476,
+    "Date":"11/24/2014",
+    "Time":1525,
+    "Street1":"FLOYD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48213183,37.47006302 ]
+    },
+    "properties": {
+    "OBJECTID":285,
+    "Date":"8/5/2012",
+    "Time":2105,
+    "Street1":"WALMSLEY BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48957799,37.5606892 ]
+    },
+    "properties": {
+    "OBJECTID":326,
+    "Date":"11/28/2012",
+    "Time":825,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46489078,37.55803734 ]
+    },
+    "properties": {
+    "OBJECTID":84,
+    "Date":"11/21/2009",
+    "Time":30,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4452033,37.57216237 ]
+    },
+    "properties": {
+    "OBJECTID":146,
+    "Date":"10/14/2010",
+    "Time":1920,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44986794,37.5996169 ]
+    },
+    "properties": {
+    "OBJECTID":357,
+    "Date":"5/22/2013",
+    "Time":1412,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48083813,37.47780277 ]
+    },
+    "properties": {
+    "OBJECTID":490,
+    "Date":"5/11/2015",
+    "Time":1549,
+    "Street1":"BROAD ROCK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45687176,37.54270997 ]
+    },
+    "properties": {
+    "OBJECTID":12,
+    "Date":"3/10/2009",
+    "Time":237,
+    "Street1":"GRAYLAND AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51207656,37.57143092 ]
+    },
+    "properties": {
+    "OBJECTID":426,
+    "Date":"4/19/2014",
+    "Time":1205,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46336381,37.55368446 ]
+    },
+    "properties": {
+    "OBJECTID":445,
+    "Date":"6/26/2014",
+    "Time":755,
+    "Street1":"MEADOW ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47630565,37.55964978 ]
+    },
+    "properties": {
+    "OBJECTID":65,
+    "Date":"9/6/2009",
+    "Time":2251,
+    "Street1":"KENSINGTON AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47412574,37.51639193 ]
+    },
+    "properties": {
+    "OBJECTID":274,
+    "Date":"6/20/2012",
+    "Time":1930,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41631237,37.53424377 ]
+    },
+    "properties": {
+    "OBJECTID":23,
+    "Date":"4/29/2009",
+    "Time":1730,
+    "Street1":"25TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44986794,37.5996169 ]
+    },
+    "properties": {
+    "OBJECTID":376,
+    "Date":"7/26/2013",
+    "Time":946,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47450159,37.55229268 ]
+    },
+    "properties": {
+    "OBJECTID":271,
+    "Date":"6/7/2012",
+    "Time":1810,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48579547,37.50760174 ]
+    },
+    "properties": {
+    "OBJECTID":121,
+    "Date":"7/14/2010",
+    "Time":1743,
+    "Street1":"BELT BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40225417,37.53992892 ]
+    },
+    "properties": {
+    "OBJECTID":204,
+    "Date":"7/25/2011",
+    "Time":910,
+    "Street1":"31ST ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4338438,37.54078027 ]
+    },
+    "properties": {
+    "OBJECTID":16,
+    "Date":"3/30/2009",
+    "Time":1600,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45767902,37.52056329 ]
+    },
+    "properties": {
+    "OBJECTID":216,
+    "Date":"9/9/2011",
+    "Time":1559,
+    "Street1":"SEMMES AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47474924,37.56600281 ]
+    },
+    "properties": {
+    "OBJECTID":66,
+    "Date":"9/9/2009",
+    "Time":847,
+    "Street1":"W BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44251571,37.55937798 ]
+    },
+    "properties": {
+    "OBJECTID":288,
+    "Date":"8/7/2012",
+    "Time":1840,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44410404,37.56567074 ]
+    },
+    "properties": {
+    "OBJECTID":437,
+    "Date":"5/27/2014",
+    "Time":1845,
+    "Street1":"CHAMBERLAYNE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43466987,37.53993077 ]
+    },
+    "properties": {
+    "OBJECTID":108,
+    "Date":"6/2/2010",
+    "Time":829,
+    "Street1":"9TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43253769,37.53414105 ]
+    },
+    "properties": {
+    "OBJECTID":47,
+    "Date":"7/25/2009",
+    "Time":2250,
+    "Street1":"CANAL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45783407,37.5476897 ]
+    },
+    "properties": {
+    "OBJECTID":346,
+    "Date":"4/17/2013",
+    "Time":2018,
+    "Street1":"FLOYD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48115678,37.545632 ]
+    },
+    "properties": {
+    "OBJECTID":293,
+    "Date":"8/20/2012",
+    "Time":2038,
+    "Street1":"BLANTON AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44355436,37.5439049 ]
+    },
+    "properties": {
+    "OBJECTID":25,
+    "Date":"5/6/2009",
+    "Time":1445,
+    "Street1":"FRANKLIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44985724,37.54902829 ]
+    },
+    "properties": {
+    "OBJECTID":336,
+    "Date":"1/16/2013",
+    "Time":1123,
+    "Street1":"LAUREL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44465505,37.55174239 ]
+    },
+    "properties": {
+    "OBJECTID":300,
+    "Date":"9/9/2012",
+    "Time":1649,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46947483,37.55811297 ]
+    },
+    "properties": {
+    "OBJECTID":400,
+    "Date":"10/17/2013",
+    "Time":20,
+    "Street1":"ROBINSON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40538545,37.54115538 ]
+    },
+    "properties": {
+    "OBJECTID":262,
+    "Date":"4/26/2012",
+    "Time":945,
+    "Street1":"28TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44730703,37.54884913 ]
+    },
+    "properties": {
+    "OBJECTID":46,
+    "Date":"7/22/2009",
+    "Time":1712,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41603741,37.5707733 ]
+    },
+    "properties": {
+    "OBJECTID":392,
+    "Date":"9/14/2013",
+    "Time":1351,
+    "Street1":"3RD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46776749,37.54577436 ]
+    },
+    "properties": {
+    "OBJECTID":441,
+    "Date":"6/15/2014",
+    "Time":2000,
+    "Street1":"IDLEWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46605688,37.56004425 ]
+    },
+    "properties": {
+    "OBJECTID":260,
+    "Date":"4/23/2012",
+    "Time":1340,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47264662,37.55297699 ]
+    },
+    "properties": {
+    "OBJECTID":446,
+    "Date":"7/18/2014",
+    "Time":2349,
+    "Street1":"ROBINSON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4677123,37.54853691 ]
+    },
+    "properties": {
+    "OBJECTID":456,
+    "Date":"8/28/2014",
+    "Time":259,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46832224,37.55009127 ]
+    },
+    "properties": {
+    "OBJECTID":280,
+    "Date":"7/28/2012",
+    "Time":203,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44754734,37.55977155 ]
+    },
+    "properties": {
+    "OBJECTID":484,
+    "Date":"2/3/2015",
+    "Time":1407,
+    "Street1":"SCHOOL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44730703,37.54884913 ]
+    },
+    "properties": {
+    "OBJECTID":140,
+    "Date":"10/1/2010",
+    "Time":1053,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4828527,37.55795657 ]
+    },
+    "properties": {
+    "OBJECTID":425,
+    "Date":"4/19/2014",
+    "Time":1115,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42311952,37.58174985 ]
+    },
+    "properties": {
+    "OBJECTID":380,
+    "Date":"8/3/2013",
+    "Time":2215,
+    "Street1":"MEDOWBRIDGE ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44468719,37.48287228 ]
+    },
+    "properties": {
+    "OBJECTID":129,
+    "Date":"9/8/2010",
+    "Time":1653,
+    "Street1":"JEFFERSON DAVIS HWY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45530905,37.54718957 ]
+    },
+    "properties": {
+    "OBJECTID":151,
+    "Date":"11/3/2010",
+    "Time":2231,
+    "Street1":"HARRISON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4646124,37.55144869 ]
+    },
+    "properties": {
+    "OBJECTID":114,
+    "Date":"6/16/2010",
+    "Time":745,
+    "Street1":"MEADOW ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44533662,37.54496446 ]
+    },
+    "properties": {
+    "OBJECTID":432,
+    "Date":"5/17/2014",
+    "Time":1620,
+    "Street1":"FRANKLIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46052155,37.56537908 ]
+    },
+    "properties": {
+    "OBJECTID":49,
+    "Date":"7/28/2009",
+    "Time":1152,
+    "Street1":"OVERBROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45160047,37.54449268 ]
+    },
+    "properties": {
+    "OBJECTID":20,
+    "Date":"4/17/2009",
+    "Time":100,
+    "Street1":"LAUREL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4462414,37.54685939 ]
+    },
+    "properties": {
+    "OBJECTID":243,
+    "Date":"1/17/2012",
+    "Time":1247,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45226312,37.52590705 ]
+    },
+    "properties": {
+    "OBJECTID":26,
+    "Date":"5/8/2009",
+    "Time":1505,
+    "Street1":"COWARDIN AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4565469,37.54722794 ]
+    },
+    "properties": {
+    "OBJECTID":335,
+    "Date":"1/15/2013",
+    "Time":1850,
+    "Street1":"FLOYD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44875038,37.54702174 ]
+    },
+    "properties": {
+    "OBJECTID":131,
+    "Date":"9/11/2010",
+    "Time":124,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46973062,37.55958734 ]
+    },
+    "properties": {
+    "OBJECTID":416,
+    "Date":"2/20/2014",
+    "Time":810,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4677123,37.54853691 ]
+    },
+    "properties": {
+    "OBJECTID":143,
+    "Date":"10/4/2010",
+    "Time":1151,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47960667,37.49338452 ]
+    },
+    "properties": {
+    "OBJECTID":181,
+    "Date":"5/19/2011",
+    "Time":1439,
+    "Street1":"SOUTHWOOD PKWY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.51733527,37.50283304 ]
+    },
+    "properties": {
+    "OBJECTID":203,
+    "Date":"7/19/2011",
+    "Time":2200,
+    "Street1":"MIDLOTHIAN TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47634298,37.48016453 ]
+    },
+    "properties": {
+    "OBJECTID":90,
+    "Date":"3/13/2010",
+    "Time":1626,
+    "Street1":"DORSET ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45170946,37.53915158 ]
+    },
+    "properties": {
+    "OBJECTID":466,
+    "Date":"10/17/2014",
+    "Time":1,
+    "Street1":"LAUREL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.449477,37.53625068 ]
+    },
+    "properties": {
+    "OBJECTID":488,
+    "Date":"4/6/2015",
+    "Time":1616,
+    "Street1":"700 S BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4721114,37.49045779 ]
+    },
+    "properties": {
+    "OBJECTID":196,
+    "Date":"6/22/2011",
+    "Time":1657,
+    "Street1":"BROAD ROCK BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.52774386,37.56811625 ]
+    },
+    "properties": {
+    "OBJECTID":427,
+    "Date":"4/27/2014",
+    "Time":2140,
+    "Street1":"RIVER ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43720448,37.53875052 ]
+    },
+    "properties": {
+    "OBJECTID":53,
+    "Date":"8/10/2009",
+    "Time":645,
+    "Street1":"8TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47437578,37.55493926 ]
+    },
+    "properties": {
+    "OBJECTID":384,
+    "Date":"8/21/2013",
+    "Time":845,
+    "Street1":"2800 GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44598264,37.55252049 ]
+    },
+    "properties": {
+    "OBJECTID":102,
+    "Date":"5/12/2010",
+    "Time":1642,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43297177,37.54025058 ]
+    },
+    "properties": {
+    "OBJECTID":210,
+    "Date":"8/17/2011",
+    "Time":1206,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44810883,37.56279225 ]
+    },
+    "properties": {
+    "OBJECTID":94,
+    "Date":"4/12/2010",
+    "Time":2112,
+    "Street1":"LOMBARDY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44961126,37.53626835 ]
+    },
+    "properties": {
+    "OBJECTID":159,
+    "Date":"12/11/2010",
+    "Time":1054,
+    "Street1":"LEE BRIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44917128,37.51913685 ]
+    },
+    "properties": {
+    "OBJECTID":313,
+    "Date":"10/15/2012",
+    "Time":1600,
+    "Street1":"BAINBRIDGE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45150329,37.55269578 ]
+    },
+    "properties": {
+    "OBJECTID":21,
+    "Date":"4/22/2009",
+    "Time":1448,
+    "Street1":"MARSHALL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4512961,37.55122729 ]
+    },
+    "properties": {
+    "OBJECTID":316,
+    "Date":"10/24/2012",
+    "Time":800,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.53842773,37.54294358 ]
+    },
+    "properties": {
+    "OBJECTID":176,
+    "Date":"4/29/2011",
+    "Time":1808,
+    "Street1":"CUSTIS ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46868005,37.55896024 ]
+    },
+    "properties": {
+    "OBJECTID":198,
+    "Date":"6/26/2011",
+    "Time":1718,
+    "Street1":"ROBINSON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46122092,37.5100448 ]
+    },
+    "properties": {
+    "OBJECTID":39,
+    "Date":"6/17/2009",
+    "Time":809,
+    "Street1":"HULL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45540082,37.55101084 ]
+    },
+    "properties": {
+    "OBJECTID":132,
+    "Date":"9/14/2010",
+    "Time":1355,
+    "Street1":"FRANKLIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47763949,37.56431392 ]
+    },
+    "properties": {
+    "OBJECTID":461,
+    "Date":"9/20/2014",
+    "Time":1440,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46105386,37.55283203 ]
+    },
+    "properties": {
+    "OBJECTID":428,
+    "Date":"4/29/2014",
+    "Time":848,
+    "Street1":"ALLEN AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44730703,37.54884913 ]
+    },
+    "properties": {
+    "OBJECTID":358,
+    "Date":"5/22/2013",
+    "Time":1445,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47761912,37.49505653 ]
+    },
+    "properties": {
+    "OBJECTID":14,
+    "Date":"3/27/2009",
+    "Time":1938,
+    "Street1":"CLARKSON ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47079052,37.55096965 ]
+    },
+    "properties": {
+    "OBJECTID":226,
+    "Date":"10/15/2011",
+    "Time":208,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4646124,37.55144869 ]
+    },
+    "properties": {
+    "OBJECTID":2,
+    "Date":"1/12/2009",
+    "Time":1935,
+    "Street1":"MEADOW ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44483419,37.51907909 ]
+    },
+    "properties": {
+    "OBJECTID":383,
+    "Date":"8/18/2013",
+    "Time":1931,
+    "Street1":"14TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43035881,37.53456635 ]
+    },
+    "properties": {
+    "OBJECTID":207,
+    "Date":"8/6/2011",
+    "Time":56,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44903975,37.54310222 ]
+    },
+    "properties": {
+    "OBJECTID":138,
+    "Date":"9/26/2010",
+    "Time":1905,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45722107,37.54612426 ]
+    },
+    "properties": {
+    "OBJECTID":160,
+    "Date":"1/19/2011",
+    "Time":1253,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44750712,37.52569188 ]
+    },
+    "properties": {
+    "OBJECTID":13,
+    "Date":"3/24/2009",
+    "Time":1711,
+    "Street1":"11TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44023118,37.54596263 ]
+    },
+    "properties": {
+    "OBJECTID":381,
+    "Date":"8/8/2013",
+    "Time":1158,
+    "Street1":"MARSHALL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43122705,37.5436049 ]
+    },
+    "properties": {
+    "OBJECTID":7,
+    "Date":"2/13/2009",
+    "Time":1300,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45878479,37.55127406 ]
+    },
+    "properties": {
+    "OBJECTID":451,
+    "Date":"8/6/2014",
+    "Time":15,
+    "Street1":"PARK AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43745558,37.54294678 ]
+    },
+    "properties": {
+    "OBJECTID":118,
+    "Date":"6/28/2010",
+    "Time":1840,
+    "Street1":"5TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.50458053,37.50510785 ]
+    },
+    "properties": {
+    "OBJECTID":482,
+    "Date":"1/14/2015",
+    "Time":2205,
+    "Street1":"MIDLOTHIAN TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45783407,37.5476897 ]
+    },
+    "properties": {
+    "OBJECTID":191,
+    "Date":"6/3/2011",
+    "Time":1811,
+    "Street1":"FLOYD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44901078,37.54443404 ]
+    },
+    "properties": {
+    "OBJECTID":291,
+    "Date":"8/16/2012",
+    "Time":1708,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43208483,37.54562586 ]
+    },
+    "properties": {
+    "OBJECTID":402,
+    "Date":"10/24/2013",
+    "Time":1011,
+    "Street1":"7TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45852893,37.55554819 ]
+    },
+    "properties": {
+    "OBJECTID":351,
+    "Date":"4/30/2013",
+    "Time":1630,
+    "Street1":"ALLEN AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42666624,37.58061472 ]
+    },
+    "properties": {
+    "OBJECTID":103,
+    "Date":"5/21/2010",
+    "Time":1830,
+    "Street1":"HUNT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43436469,37.54247959 ]
+    },
+    "properties": {
+    "OBJECTID":88,
+    "Date":"2/22/2010",
+    "Time":1725,
+    "Street1":"E MARSHALL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48288336,37.56384816 ]
+    },
+    "properties": {
+    "OBJECTID":310,
+    "Date":"10/9/2012",
+    "Time":854,
+    "Street1":"THOMPSON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47014861,37.55476529 ]
+    },
+    "properties": {
+    "OBJECTID":111,
+    "Date":"6/8/2010",
+    "Time":1544,
+    "Street1":"DAVIS AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46708989,37.54964934 ]
+    },
+    "properties": {
+    "OBJECTID":34,
+    "Date":"5/28/2009",
+    "Time":2125,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41006128,37.55599972 ]
+    },
+    "properties": {
+    "OBJECTID":106,
+    "Date":"5/26/2010",
+    "Time":1755,
+    "Street1":"MECHANICSVILLE TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8987638,21.84881981 ]
+    },
+    "properties": {
+    "OBJECTID":464,
+    "Date":"10/14/2014",
+    "Time":930,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.52007566,37.50233114 ]
+    },
+    "properties": {
+    "OBJECTID":70,
+    "Date":"9/15/2009",
+    "Time":1522,
+    "Street1":"MIDLOTHIAN TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4492359,37.53647376 ]
+    },
+    "properties": {
+    "OBJECTID":404,
+    "Date":"11/9/2013",
+    "Time":1518,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44903975,37.54310222 ]
+    },
+    "properties": {
+    "OBJECTID":439,
+    "Date":"6/7/2014",
+    "Time":2223,
+    "Street1":"CUMBERLAND ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47061542,37.5486418 ]
+    },
+    "properties": {
+    "OBJECTID":354,
+    "Date":"5/14/2013",
+    "Time":1610,
+    "Street1":"PARKWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41233404,37.53841234 ]
+    },
+    "properties": {
+    "OBJECTID":366,
+    "Date":"6/21/2013",
+    "Time":2051,
+    "Street1":"25TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42687685,37.55113238 ]
+    },
+    "properties": {
+    "OBJECTID":75,
+    "Date":"9/30/2009",
+    "Time":617,
+    "Street1":"HOSPITAL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46031397,37.56093061 ]
+    },
+    "properties": {
+    "OBJECTID":434,
+    "Date":"5/22/2014",
+    "Time":1902,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47665412,37.55078145 ]
+    },
+    "properties": {
+    "OBJECTID":211,
+    "Date":"8/17/2011",
+    "Time":2042,
+    "Street1":"BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4981093,37.57654039 ]
+    },
+    "properties": {
+    "OBJECTID":424,
+    "Date":"4/12/2014",
+    "Time":843,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40629602,37.54803296 ]
+    },
+    "properties": {
+    "OBJECTID":363,
+    "Date":"6/2/2013",
+    "Time":2103,
+    "Street1":"NORTH 23RD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43475701,37.54132681 ]
+    },
+    "properties": {
+    "OBJECTID":388,
+    "Date":"9/9/2013",
+    "Time":1512,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4695581,37.55053048 ]
+    },
+    "properties": {
+    "OBJECTID":263,
+    "Date":"4/28/2012",
+    "Time":1628,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43704394,37.53595583 ]
+    },
+    "properties": {
+    "OBJECTID":17,
+    "Date":"4/8/2009",
+    "Time":1610,
+    "Street1":"10TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46136884,37.55600156 ]
+    },
+    "properties": {
+    "OBJECTID":200,
+    "Date":"7/13/2011",
+    "Time":1055,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47188503,37.55947421 ]
+    },
+    "properties": {
+    "OBJECTID":364,
+    "Date":"6/12/2013",
+    "Time":843,
+    "Street1":"PATTERSON AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44104358,37.54510197 ]
+    },
+    "properties": {
+    "OBJECTID":295,
+    "Date":"8/31/2012",
+    "Time":1145,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43018801,37.5431753 ]
+    },
+    "properties": {
+    "OBJECTID":175,
+    "Date":"4/21/2011",
+    "Time":857,
+    "Street1":"LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45529065,37.54851325 ]
+    },
+    "properties": {
+    "OBJECTID":161,
+    "Date":"2/3/2011",
+    "Time":1830,
+    "Street1":"HARRISON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48654981,37.55523894 ]
+    },
+    "properties": {
+    "OBJECTID":67,
+    "Date":"9/10/2009",
+    "Time":1208,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42929963,37.55154155 ]
+    },
+    "properties": {
+    "OBJECTID":382,
+    "Date":"8/17/2013",
+    "Time":2330,
+    "Street1":"5TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46221963,37.55509991 ]
+    },
+    "properties": {
+    "OBJECTID":165,
+    "Date":"2/21/2011",
+    "Time":1412,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48288336,37.56384816 ]
+    },
+    "properties": {
+    "OBJECTID":130,
+    "Date":"9/10/2010",
+    "Time":1606,
+    "Street1":"PARK AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44675813,37.54986322 ]
+    },
+    "properties": {
+    "OBJECTID":417,
+    "Date":"2/22/2014",
+    "Time":2258,
+    "Street1":"MARSHALL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4523156,37.5518378 ]
+    },
+    "properties": {
+    "OBJECTID":101,
+    "Date":"5/11/2010",
+    "Time":1230,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44246938,37.52197212 ]
+    },
+    "properties": {
+    "OBJECTID":237,
+    "Date":"12/16/2011",
+    "Time":1900,
+    "Street1":"HULL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47130473,37.56053208 ]
+    },
+    "properties": {
+    "OBJECTID":213,
+    "Date":"8/28/2011",
+    "Time":1811,
+    "Street1":"MONUMENT AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45689354,37.5533201 ]
+    },
+    "properties": {
+    "OBJECTID":171,
+    "Date":"3/20/2011",
+    "Time":2145,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45852893,37.55554819 ]
+    },
+    "properties": {
+    "OBJECTID":201,
+    "Date":"7/14/2011",
+    "Time":1611,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41444116,37.54894278 ]
+    },
+    "properties": {
+    "OBJECTID":304,
+    "Date":"9/17/2012",
+    "Time":1754,
+    "Street1":"MECHANICSVILLE TPKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47021129,37.56252757 ]
+    },
+    "properties": {
+    "OBJECTID":319,
+    "Date":"11/1/2012",
+    "Time":1018,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45116708,37.58445108 ]
+    },
+    "properties": {
+    "OBJECTID":481,
+    "Date":"12/30/2014",
+    "Time":1527,
+    "Street1":"BROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46601713,37.54613264 ]
+    },
+    "properties": {
+    "OBJECTID":459,
+    "Date":"9/3/2014",
+    "Time":1745,
+    "Street1":"GRAYLAND AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48593459,37.55634603 ]
+    },
+    "properties": {
+    "OBJECTID":442,
+    "Date":"6/16/2014",
+    "Time":830,
+    "Street1":"ELLWOOD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42517516,37.52949049 ]
+    },
+    "properties": {
+    "OBJECTID":248,
+    "Date":"2/17/2012",
+    "Time":1739,
+    "Street1":"DOCK ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46852418,37.56151866 ]
+    },
+    "properties": {
+    "OBJECTID":463,
+    "Date":"10/6/2014",
+    "Time":815,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47571475,37.555415 ]
+    },
+    "properties": {
+    "OBJECTID":308,
+    "Date":"10/5/2012",
+    "Time":1,
+    "Street1":"GROVE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45528613,37.54586004 ]
+    },
+    "properties": {
+    "OBJECTID":303,
+    "Date":"9/16/2012",
+    "Time":1546,
+    "Street1":"MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45312096,37.55098249 ]
+    },
+    "properties": {
+    "OBJECTID":455,
+    "Date":"8/24/2014",
+    "Time":2110,
+    "Street1":"HARRISON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.433285,37.5616848 ]
+    },
+    "properties": {
+    "OBJECTID":135,
+    "Date":"9/20/2010",
+    "Time":1700,
+    "Street1":"ROBERTS ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45695419,37.565356 ]
+    },
+    "properties": {
+    "OBJECTID":348,
+    "Date":"4/23/2013",
+    "Time":1723,
+    "Street1":"OVERBROOK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42764399,37.53290761 ]
+    },
+    "properties": {
+    "OBJECTID":259,
+    "Date":"4/17/2012",
+    "Time":803,
+    "Street1":"18TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44198673,37.56656372 ]
+    },
+    "properties": {
+    "OBJECTID":144,
+    "Date":"10/11/2010",
+    "Time":1744,
+    "Street1":"LANCASTER ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48886721,37.55607719 ]
+    },
+    "properties": {
+    "OBJECTID":359,
+    "Date":"5/25/2013",
+    "Time":1450,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4266371,37.53096217 ]
+    },
+    "properties": {
+    "OBJECTID":72,
+    "Date":"9/17/2009",
+    "Time":245,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44903975,37.54310222 ]
+    },
+    "properties": {
+    "OBJECTID":329,
+    "Date":"12/13/2012",
+    "Time":1245,
+    "Street1":"BELVIDERE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45312096,37.55098249 ]
+    },
+    "properties": {
+    "OBJECTID":245,
+    "Date":"2/13/2012",
+    "Time":1458,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.39662934,37.52083738 ]
+    },
+    "properties": {
+    "OBJECTID":73,
+    "Date":"9/22/2009",
+    "Time":1620,
+    "Street1":"FENTON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43475701,37.54132681 ]
+    },
+    "properties": {
+    "OBJECTID":115,
+    "Date":"6/17/2010",
+    "Time":651,
+    "Street1":"8TH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46605688,37.56004425 ]
+    },
+    "properties": {
+    "OBJECTID":126,
+    "Date":"8/26/2010",
+    "Time":1248,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47264662,37.55297699 ]
+    },
+    "properties": {
+    "OBJECTID":298,
+    "Date":"9/6/2012",
+    "Time":2202,
+    "Street1":"FLOYD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4492359,37.53647376 ]
+    },
+    "properties": {
+    "OBJECTID":435,
+    "Date":"5/23/2014",
+    "Time":1500,
+    "Street1":"HOLLY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47326913,37.55185355 ]
+    },
+    "properties": {
+    "OBJECTID":411,
+    "Date":"12/21/2013",
+    "Time":57,
+    "Street1":"ROBINSON ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47188503,37.55947421 ]
+    },
+    "properties": {
+    "OBJECTID":334,
+    "Date":"1/15/2013",
+    "Time":1724,
+    "Street1":"BOULEVARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47252898,37.55830152 ]
+    },
+    "properties": {
+    "OBJECTID":238,
+    "Date":"12/22/2011",
+    "Time":1947,
+    "Street1":"KENSINGTON AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42045435,37.52633297 ]
+    },
+    "properties": {
+    "OBJECTID":258,
+    "Date":"4/13/2012",
+    "Time":805,
+    "Street1":"DOCK ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47412574,37.51639193 ]
+    },
+    "properties": {
+    "OBJECTID":183,
+    "Date":"5/24/2011",
+    "Time":1225,
+    "Street1":"FOREST HILL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43945367,37.54850448 ]
+    },
+    "properties": {
+    "OBJECTID":487,
+    "Date":"3/26/2015",
+    "Time":810,
+    "Street1":"W LEIGH ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4445771,37.54722087 ]
+    },
+    "properties": {
+    "OBJECTID":429,
+    "Date":"5/6/2014",
+    "Time":2146,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4788973,37.50526559 ]
+    },
+    "properties": {
+    "OBJECTID":332,
+    "Date":"1/5/2013",
+    "Time":1729,
+    "Street1":"BELT BLVD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44708981,37.54736406 ]
+    },
+    "properties": {
+    "OBJECTID":471,
+    "Date":"10/28/2014",
+    "Time":1200,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42737016,37.53687119 ]
+    },
+    "properties": {
+    "OBJECTID":265,
+    "Date":"5/8/2012",
+    "Time":125,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4688268,37.50099535 ]
+    },
+    "properties": {
+    "OBJECTID":82,
+    "Date":"11/12/2009",
+    "Time":2024,
+    "Street1":"BROAD ROCK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46341956,37.5086221 ]
+    },
+    "properties": {
+    "OBJECTID":235,
+    "Date":"11/26/2011",
+    "Time":1824,
+    "Street1":"BROAD ROCK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43365477,37.49575115 ]
+    },
+    "properties": {
+    "OBJECTID":148,
+    "Date":"10/20/2010",
+    "Time":845,
+    "Street1":"ROYALL AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4324325,37.5345054 ]
+    },
+    "properties": {
+    "OBJECTID":486,
+    "Date":"3/24/2015",
+    "Time":1625,
+    "Street1":"CARY ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4415347,37.53864095 ]
+    },
+    "properties": {
+    "OBJECTID":119,
+    "Date":"6/30/2010",
+    "Time":1208,
+    "Street1":"CANAL ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.44185946,37.5442386 ]
+    },
+    "properties": {
+    "OBJECTID":386,
+    "Date":"9/1/2013",
+    "Time":211,
+    "Street1":"GRACE ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47850218,37.48308356 ]
+    },
+    "properties": {
+    "OBJECTID":95,
+    "Date":"4/14/2010",
+    "Time":1804,
+    "Street1":"WARWICK ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45066656,37.55085368 ]
+    },
+    "properties": {
+    "OBJECTID":305,
+    "Date":"9/24/2012",
+    "Time":1700,
+    "Street1":"BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4705964,37.49713806 ]
+    },
+    "properties": {
+    "OBJECTID":253,
+    "Date":"3/18/2012",
+    "Time":1810,
+    "Street1":"BROAD ROCK BLVD"
+    }
+  }
+]
+}

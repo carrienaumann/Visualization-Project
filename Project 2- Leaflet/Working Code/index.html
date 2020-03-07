@@ -1,0 +1,35 @@
+<!-- goes with logic5.js -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Traffic Visualization</title>
+
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js"></script>
+  <script src="jquery-2.1.1.min.js"></script>
+
+
+  <!--D3 cdn-->
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script> -->
+
+<script src="https://www.mapquestapi.com/sdk/leaflet/v2.2/mq-map.js?key=uJxxQOCV7ORltQMW9y7gLqVLtGOazhpS"></script>
+<script src="https://www.mapquestapi.com/sdk/leaflet/v2.2/mq-traffic.js?key=uJxxQOCV7ORltQMW9y7gLqVLtGOazhpS"></script>
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+</head>
+
+<body>
+  <!-- The div where we will inject our map -->
+  <div id="map"></div>
+
+  <!-- API Key -->
+  <script type="text/javascript" src="static/js/config.js"></script>
+  <!-- Our JavaScript -->
+  <script type="text/javascript" src="static/js/logic.js"></script>
+  <!-- Leaflet heatmap plugin-->
+  <script type="text/javascript" src="static/js/leaflet-heat.js"></script>
+</body>
+</html>
