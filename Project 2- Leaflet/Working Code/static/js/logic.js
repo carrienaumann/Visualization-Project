@@ -17,9 +17,9 @@ var layers = {
 
   var overlays = {
     "Bike Accidents (Historic)": layers.Bike,
-    "RVA Car Crashes 2018-2019": layers.Heatmap,
+    "Car Crashes 2018-2019": layers.Heatmap,
     "Traffic Flow (Mapquest)": layers.MQ1,
-    "Construction & Incidents (Mapquest)": layers.MQ2
+    "Construction (Mapquest)": layers.MQ2
   };
 
 L.control.layers({
