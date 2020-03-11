@@ -18,8 +18,8 @@ var fireworks = (function() {
   var animations = [];
 
   var setCanvasSize = function() {
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
+    canvas.width = 980;
+    canvas.height = 20;
   }
 
   var updateCoords = function(e) {
@@ -201,7 +201,7 @@ var logoAnimation = function() {
     transform: function() {
       return ff ? ['rotate(360)', 'rotate(0)'] : ['rotate(360 240 64)', 'rotate(0 240 64)'];
     },
-    duration: 2500,
+    duration: 4000,
     delay: letters.duration - 780
   });
 
