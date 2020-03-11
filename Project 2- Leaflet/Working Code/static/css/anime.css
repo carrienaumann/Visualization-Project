@@ -1,5 +1,5 @@
-:root { font-size: 14px; }
-@media (min-width: 350px) { :root { font-size: 16px; } }
+* :root { font-size: 14px; }
+@media (min-width: 150px) { :root { font-size: 16px; } }
 @media (min-width: 640px) { :root { font-size: 28px; } }
 @media (min-width: 1440px) { :root { font-size: 1.25vw; } }
 
@@ -10,19 +10,20 @@
 }
 
 section {
-	position: relative;
-	z-index: 1;
-	max-width: 19rem;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
 }
 
 /* Logo */
 
 .logo {
-	opacity: 0;
-	position: relative;
-	margin-left: -3.5rem;
-	margin-top: -8rem;
-	margin-bottom: .01rem;
+	opacity: 50;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 300px;
 	font-size: 8px;
 }
 
@@ -41,14 +42,14 @@ body:not(.iOS) #lines * {
 
 #line-i-1 {
   transform-origin: 30em 8em;
-}
+} */
 
 /* Fireworks */
 
-/*.fireworks {
+.fireworks {
   position: absolute;
 	top: 0;
 	left: 0;
-  width: 100%;
-  height: 100%;
-}*/
+  width: 5;
+  height: 5;
+}

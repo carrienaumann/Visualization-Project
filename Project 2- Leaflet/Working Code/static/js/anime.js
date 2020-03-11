@@ -12,7 +12,7 @@ var fireworks = (function() {
   var canvas = document.querySelector('.fireworks');
   var ctx = canvas.getContext('2d');
   var numberOfParticules = 50;
-  var distance = 200;
+  var distance = 100;
   var x = 0;
   var y = 0;
   var animations = [];
@@ -239,5 +239,3 @@ var logoAnimation = function() {
   });
 
 }
-
-document.addEventListener('DOMContentLoaded', logoAnimation, false);
