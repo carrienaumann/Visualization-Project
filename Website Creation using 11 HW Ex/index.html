@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Data Visualization Bootcamp Final Project RVA Crash & Historical Housing Data</title>
+
+    <!-- Boostrap Stylesheet -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen">
+
+    <!-- Our own CSS stylesheet -->
+    <link rel="stylesheet" href="assets/css/styles.css" media="screen">
+
+  </head>
+
+  <body>
+    <!-- Start of navbar -->
+    <nav class="navbar navbar-default">
+      <div class="container-fluid navbar-custom">
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="row">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle Navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <div class="col-xs-9 phone-nav">
+              <a class="navbar-brand" href="#" id="logo">Home</a>
+            </div>
+          </div>
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right navbar-right-custom">
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Machine Learning <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="visualizations/historicalhousingdata.html">Historial Housing Data: Seasonality</a></li>
+                  <li><a href="visualizations/rvahomesales.html">RVA Home Sales</a></li>
+                  <li><a href="visualizations/forecastvactuals.html">Forecast Vs. Actuals</a></li>
+                  <li><a href="visualizations/rvahomessalesforecast.html">RVA Homes Sales Forecast</a></li>
+                </ul>
+              </li>
+              <li><a href="comparison.html">Crash & Housing Data</a></li>
+              <li><a href="data.html">Leaflet Map of Crash Data</a></li>
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        </div>
+      </div><!-- /.container-fluid -->
+    </nav>
+    <!-- End of navbar -->
+
+    <!-- Start of container -->
+    <div class="container">
+      <section class="row">
+        <div class="col-md-8">
+          <article class="description-content">
+            <h1 class="description-header">Summary: RVA Crash Data & Housing Density</h1>
+            <hr class="description-hr"/>
+            <img src="Resources\bike_broad2.jpg" alt="" id="description-image"/>
+            <p>We chose to review how traffic congestion and road work intersects with traffic incidents and bike versus vehicle accidents from 2018 - 2019. Using APIs and gathered data we plotted the multiple elements that allow the user to see how areas with increased congestion and areas around construction zones resulted in higher bike versus vehicle accidents on suburban streets.</p>
+            <p>We used a hybrid of Leaflet with multiple overlays including a heat map, api calls, and html/css. Leaflet provided a means to generate a standard area map and grab data using an API call to MapQuest. In return we were able to pull in data from MapQuest that gave us overlays pertaining to traffic congestion, or ‘flow’, as well as road construction projects. We pulled in additional data from virginiaroads.org to acquire bike versus vehicle crashes and vehicle versus vehicle crashes. The data from virginiaroads.org was in csv form which we used geoJson to load the data points. Additionally, we used Leaflet to add a heatmap element. </p>
+            <p> Our map uses various elements such as heatmaps, pinned locations, and pinned locations with information to visually represent at a glance the different types of data being presented</p>
+          </article>
+        </div>
+        <div class="col-md-4">
+
+          <!-- Start of Visualizations imageNav Area -->
+          <section id="imageNav-area">
+            <div class="imageNav-content">
+              <h2 class="imageNav-header">Machine Learning Visualizations</h2>
+              <hr />
+              <div id="images">
+                <a href="visualizations/historicalhousingdata.html"><img src="../assets/images/Fig1.png" alt="Historial Housing Data: Seasonality" class="imageNav-photo active"></a>
+                <a href="visualizations/rvahomesales.html"><img src="../assets/images/Fig2.png" alt="RVA Home Sales" class="imageNav-photo"></a>
+                <a href="visualizations/forecastvactuals.html"><img src="../assets/images/Fig3.png" alt="Forecast Vs. Actuals" class="imageNav-photo"></a>
+                <a href="visualizations/rvahomessalesforecast.html"><img src="../assets/images/Fig4.png" alt="RVA Homes Sales Forecast" class="imageNav-photo"></a>
+              </div>
+            </div>
+          </section>
+          <!-- End of the Visualizations imageNav Area -->
+
+        </div>
+      </section>
+    </div>
+    <!-- End of container -->
+
+    <!-- Start of footer -->
+    <footer class="footer navbar-fixed-bottom">
+      <div class="two-toned-footer-color"></div>
+      <p class="text-muted text-muted-footer text-center">
+        &copy; Bootcamp Final Project:  Victoria Harvey, Leah Barbour, Andrew Cummings, & Carrie Naumann 2020
+      </p>
+    </footer>
+    <!-- End of footer -->
+
+    <!-- jQuery CDN -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+    <!-- Bootstrap CDN -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  </body>
+
+</html>
