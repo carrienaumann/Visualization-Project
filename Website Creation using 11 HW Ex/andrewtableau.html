@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>Data Visualization Bootcamp Final Project RVA Crash Data</title>
+    <title>Bootstrap Visualization Dashboard</title>
 
     <!-- Boostrap Stylesheet -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen">
@@ -31,7 +31,7 @@
               <span class="icon-bar"></span>
             </button>
             <div class="col-xs-9 phone-nav">
-              <a class="navbar-brand" href="#" id="logo">Home</a>
+              <a class="navbar-brand" href="index.html" id="logo">Home</a>
             </div>
           </div>
 
@@ -49,7 +49,7 @@
               </li>
               <li><a href="comparison.html">Crash & Housing Data</a></li>
               <li><a href="andrewtableau.html">Bike Accidents & Weather</a></li>
-                            <li><a href="data.html">Leaflet Map of Crash Data</a></li>
+              <li><a href="data.html">Leaflet Map of Crash Data</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
         </div>
@@ -59,38 +59,15 @@
 
     <!-- Start of container -->
     <div class="container">
-      <section class="row">
-        <div class="col-md-8">
-          <article class="description-content">
-            <h1 class="description-header">Summary: RVA Crash Data Analysis</h1>
-            <hr class="description-hr"/>
-            <img src="Resources\bike_broad2.jpg" alt="" id="description-image"/>
-            <p>We chose to review how traffic congestion and road work intersects with traffic incidents and bike versus vehicle accidents from 2018 - 2019. Using APIs and gathered data we plotted the multiple elements that allow the user to see how areas with increased congestion and areas around construction zones resulted in higher bike versus vehicle accidents on suburban streets.</p>
-            <p>We used a hybrid of Leaflet with multiple overlays including a heat map, api calls, and html/css. Leaflet provided a means to generate a standard area map and grab data using an API call to MapQuest. In return we were able to pull in data from MapQuest that gave us overlays pertaining to traffic congestion, or ‘flow’, as well as road construction projects. We pulled in additional data from virginiaroads.org to acquire bike versus vehicle crashes and vehicle versus vehicle crashes. The data from virginiaroads.org was in csv form which we used geoJson to load the data points. Additionally, we used Leaflet to add a heatmap element. </p>
-            <p> Our map uses various elements such as heatmaps, pinned locations, and pinned locations with information to visually represent at a glance the different types of data being presented</p>
-          </article>
+      <article class="description-content row">
+        <div class="col-xs-12">
+          <h1 class="description-header">Bike Accidents & Weather</h1>
+          <hr class="description-hr"/>
+          <div class='tableauPlaceholder' id='viz1586617023103' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Project3_15864757892640&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Project3_15864757892640&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Project3_15864757892640&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1586617023103');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
         </div>
-        <div class="col-md-4">
-
-          <!-- Start of Visualizations imageNav Area -->
-          <section id="imageNav-area">
-            <div class="imageNav-content">
-              <h2 class="imageNav-header">Machine Learning Visualizations</h2>
-              <hr />
-              <div id="images">
-                <a href="visualizations/historicalhousingdata.html"><img src="../assets/images/Fig1.png" alt="Historial Housing Data: Seasonality" class="imageNav-photo active"></a>
-                <a href="visualizations/rvahomesales.html"><img src="../assets/images/Fig2.png" alt="RVA Home Sales" class="imageNav-photo"></a>
-                <a href="visualizations/forecastvactuals.html"><img src="../assets/images/Fig3.png" alt="Forecast Vs. Actuals" class="imageNav-photo"></a>
-                <a href="visualizations/rvahomessalesforecast.html"><img src="../assets/images/Fig4.png" alt="RVA Homes Sales Forecast" class="imageNav-photo"></a>
-              </div>
-            </div>
-          </section>
-          <!-- End of the Visualizations imageNav Area -->
-
-        </div>
-      </section>
+      </article>
     </div>
-    <!-- End of container -->
+    <!-- End of container  -->
 
     <!-- Start of footer -->
     <footer class="footer navbar-fixed-bottom">
